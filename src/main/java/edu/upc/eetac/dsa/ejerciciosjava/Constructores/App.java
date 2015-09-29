@@ -1,10 +1,5 @@
 package edu.upc.eetac.dsa.ejerciciosjava.Constructores;
-import java.util.ArrayList;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) {
