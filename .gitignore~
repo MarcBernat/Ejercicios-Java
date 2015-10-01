@@ -11,6 +11,7 @@ release.properties
 .idea/
 *.ipr
 *.iws
+src/test/
 
 # Eclipse
 .classpath
@@ -19,3 +20,6 @@ release.properties
 
 # OSX
 .DS_Store
+
+# Gedit	
+~
